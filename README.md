@@ -2,7 +2,7 @@ Console.log('Hello World!!)
  
 
 Hello, my name is Felipe de Oliveira ✌️
-i'm a front-end dev, building Websites with JS, HTML and CSS.
+i'm a front-end dev, building Websites with JavaS, HTML and CSS.
 <br>
 Everyday learning something new to upgrade my skills. 
 <br> 
